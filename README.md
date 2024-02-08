@@ -1,5 +1,5 @@
-# vue-bulma-table
-Vue DataTile with Bulma style
+# vue-bulma-tile
+Vue Data Tile with Bulma style
 
 ## Getting Started
 ### Installing
@@ -22,7 +22,7 @@ Vue.component('data-tile', DataTile)
 
 ### html
 ```html
-<data-table
+<data-tile
   :data="data"                                    # required - array of data
   :filterableFields="fields"                      # required - set columns
 >
@@ -33,7 +33,7 @@ Vue.component('data-tile', DataTile)
     </div>
   </template>
   
-</data-table>
+</data-tile>
 ```
 
 ### script
