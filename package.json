@@ -18,6 +18,10 @@
     "dist"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1sttati/vue-bulma-tile.git"
+  },
   "dependencies": {
     "bulma": "^0.6.0",
     "jquery": "^3.3.1",

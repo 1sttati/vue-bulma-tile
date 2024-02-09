@@ -1,5 +1,3 @@
-import DataTile from './DataTile.vue'
+import VueBulmaTile from './DataTile.vue'
 
-export {
-  DataTile
-}
+export default VueBulmaTile

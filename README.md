@@ -4,7 +4,7 @@ Vue Data Tile with Bulma style
 ## Getting Started
 ### Installing
 ```
-npm install vue-bulma-tile --save
+npm install https://github.com/1sttati/vue-bulma-tile.git
 ```
 or
 ```
