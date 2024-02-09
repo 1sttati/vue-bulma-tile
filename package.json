@@ -2,7 +2,7 @@
   "name": "vue-bulma-tile",
   "version": "1.0.0",
   "description": "Vue Data Tile with Bulma style",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +15,7 @@
   ],
   "author": "1sttati <1st.tati@outlook.com>",
   "files": [
-    "dist"
+    "src"
   ],
   "license": "MIT",
   "repository": {
