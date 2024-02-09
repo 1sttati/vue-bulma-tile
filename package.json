@@ -2,10 +2,9 @@
   "name": "vue-bulma-tile",
   "version": "1.0.0",
   "description": "Vue Data Tile with Bulma style",
-  "main": "dist/main.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "poi build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "vue",
